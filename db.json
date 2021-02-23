@@ -1,0 +1,26 @@
+{
+  "peoples": [
+    {
+      "id": 1,
+      "name": "Molly Holly",
+      "adress": "adress1",
+      "extra": "Jag jobbar på fabriken",
+      "age": 23
+    },
+    {
+      "id": 2,
+      "name": "Anders Andress",
+      "adress": "adress2",
+      "extra": "Jag jobbar på månen",
+      "age": 44
+    },
+    {
+      "id": 3,
+      "name": "Anna Marie",
+      "adress": "adress3",
+      "extra": "Jag jobbar på solen",
+      "age": 33
+    }
+  ]
+ 
+}
